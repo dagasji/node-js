@@ -9,6 +9,9 @@ git remote add origin git@github.com:yourname/yourrepository.git
 Add your files and commits, as you normally would:
 git add .
 git commit -m "First commit"
+
+git add -u (marcará los ficheros para eliminarlos)
+
 Push your changes:
 git push -u origin master
 
